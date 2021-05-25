@@ -7,6 +7,8 @@ I had an old USB drive around with a broken mechanism in the case so I decided t
 
 The openSCAD model is very configurable, so you can configure this for your USB drive, or whatever else.
 
+One possible improvement I would like to see is rounded edges for both parts, but from what I've seen it's unnecessarily complex to do that in openSCAD.
+
 ## Print settings
 
 I printed this with a Prusa MINI+, using PrusaSlicer 2.3.
