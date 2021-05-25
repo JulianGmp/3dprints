@@ -15,6 +15,8 @@ I printed this with a Prusa MINI+, using PrusaSlicer 2.3.
 
 Slicer profile: Prusament PLA, 0.15mm QUALITY.
 
+**NOTE:** I recommend generating both the case and the cover into one STL, and using the “Split to object” function in PrusaSlicer.
+
 
 ## Licensing
 
