@@ -1,0 +1,6 @@
+# FreeCAD temporary files
+*.FCStd1
+
+# Some random directory my file manager puts here (?)
+.directory
+
