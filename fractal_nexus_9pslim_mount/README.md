@@ -1,4 +1,4 @@
-# Mount for the Fractal Nexus 9pslim PWM fan expander
+# Mount for the Fractal Design Nexus 9pslim PWM fan hub
 
 |||
 |---|---|
@@ -8,7 +8,7 @@
 ![installed.jpg](installed.jpg)
 
 
-I disliked the original position of the little pwm expander in my fractal
+I disliked the original position of the little pwm hub in my Fractal Design
 torrent since I would have to cramp a lot of cables in the bottom left of the case, so I decided to mount it in the center, where one 3.5" HDD cage used to be.
 
 This is a very simple model, I used three M3 screws+nuts to secure the PCB on
